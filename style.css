@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500&display=swap');
+
+*{
+	font-family: 'Inter Tight', sans-serif;
+}
+.info__box {
+	background-color: #0B615E;
+	float: left;
+	width: 42%;
+}
+.image{
+	width: 240px;
+    margin-top: 64px;
+	margin-left: 64px;
+}
+.info__name {
+    margin-top: 32px;
+    font-size: 32px;
+    margin-left: 64px;
+    color: white;
+}
+.info__job{
+	margin-top: 16px;
+    margin-left: 64px;
+	font-size: 24px;
+	color: white;
+}
+.info__data{
+	margin-top: 16px;
+    margin-left: 64px;
+}
+.info__item{
+	margin-top: 16px;
+	padding: 16px;
+	background-color: white;
+	width: 40%;
+}
+.education{
+	color: white;
+	margin-top: 48px;
+	margin-left: 16px;
+}
+.title {
+	font-size: 16px;
+	margin-left: 48px;
+}
+body {
+	font-size: 14px;
+	padding: 15px 20px;
+}
+.textcols {
+	overflow: hidden;
+}
+.resume {
+	margin-left: 45%;
+}
+.one {
+	background-color: #0B615E;
+	color: white;
+	padding: 10px 100px;
+	width: 60%;
+
+}
